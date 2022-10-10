@@ -18,8 +18,8 @@ let client = ConfigCatClient(
 class Features: ObservableObject {
    @Published var canShowUpvote = false
     init() { 
-        client.getValue(for: "canshowupvote", defaultValue: false) { isMyAwesomeFeatureEnabled in
-            if isMyAwesomeFeatureEnabled { 
+        client.getValue(for: "canshowupvote", defaultValue: false) { isUpvoteFeatureEnabled in
+            if isUpvoteFeatureEnabled {
                 self.canShowUpvote = true
             }
         }
