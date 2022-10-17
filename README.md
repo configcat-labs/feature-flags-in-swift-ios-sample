@@ -1,22 +1,34 @@
-# Feature Flags in Swift IOS Sample (WIP - Work in Progress)
+# Feature Flags in Swift IOS Sample
 
-#### (Optional) In case the blog post is already published, please add: [Read the blog post here](https://configcat.com/blog/)
+[Read the blog post here](https://configcat.com/blog/)
 
-A few words about the contents of the repository. Whats is this application about, what does it demonstrate? Add a backlink to https://configcat.com
+This is a fictional IOS app created to demo how feature flags can we used with Swift. I've added an **Upvote** button as the new feature to be deployed as shown below. In the article I examined how we can link it to a feature. In this way, I can toggle it on or off remotely without editing or redeploying the code.
+
+### Screenshot
+
+<!-- TODO: Add screenshot here -->
 
 ## Build & Run
 
-Instructions on how to build and run the application locally. A student or junior developer should be able to run the application.
-- Prerequisites
-- Steps, commands to run
+### Prerequisites
+
+- A Mac computer
+- The latest version of XCode
+
+### How to run the app
+
+1. Clone this repository
+2. Open the project with Xcode
+3. You should be able to see a preview of the app by selecting **PlaylistsView** in the left sidebar
+
+<!-- TODO: Add snapshot of the sample app -->
 
 ## Learn more
 
 Useful links to technical resources.
 
 Example:
-- Next.js Documentation - learn about Next.js features and API.
-- Learn Next.js - an interactive Next.js tutorial.
+- [Swift Documentation](https://developer.apple.com/swift/) - learn about Swift.
 
 [**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/).
 
