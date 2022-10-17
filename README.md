@@ -2,11 +2,11 @@
 
 [Read the blog post here](https://configcat.com/blog/)
 
-This is a fictional IOS app created to demo how feature flags can we used with Swift. I've added an **Upvote** button as the new feature to be deployed as shown below. In the article I examined how we can link it to a feature. In this way, I can toggle it on or off remotely without editing or redeploying the code.
+Using this IOS app, I’ve demonstrated how to use feature flags with Swift. In the screenshot below, I have added an Upvote button as a new feature to be deployed. In the article, I examined how it can be linked to a feature. By doing so, I can toggle it on or off remotely without editing or redeploying the code.
 
 ### Screenshot
 
-<!-- TODO: Add screenshot here -->
+![Screenshot of sample app](https://user-images.githubusercontent.com/74829200/196141356-57f2a905-fece-4c38-832e-8878ee54fb3e.png)
 
 ## Build & Run
 
@@ -21,7 +21,7 @@ This is a fictional IOS app created to demo how feature flags can we used with S
 2. Open the project with Xcode
 3. You should be able to see a preview of the app by selecting **PlaylistsView** in the left sidebar
 
-<!-- TODO: Add snapshot of the sample app -->
+![Screenshot of sample app](https://user-images.githubusercontent.com/74829200/196141356-57f2a905-fece-4c38-832e-8878ee54fb3e.png)
 
 ## Learn more
 
