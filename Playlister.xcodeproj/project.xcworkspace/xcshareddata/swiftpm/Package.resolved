@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/configcat/swift-sdk",
       "state" : {
-        "revision" : "24d844be9a92597bccdfbdf233ca4c25491b2254",
-        "version" : "9.0.1"
+        "revision" : "58f00a4e8d8bc3157bc44f9f9aa75f4519fcc30c",
+        "version" : "9.2.2"
       }
     }
   ],

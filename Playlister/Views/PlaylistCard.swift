@@ -10,10 +10,9 @@ import SwiftUI
 
 import ConfigCat
 
-let client = ConfigCatClient(
-    sdkKey: "vKraCIIHVEGNyGhSumjxAQ/xcKJxp4KU0OyRVQsI8wx0w",
-    refreshMode: PollingModes.autoPoll(autoPollIntervalInSeconds: 15)
-)
+let client = ConfigCatClient.get(sdkKey: "YOUR_CONFIGCAT_SDK_KEY") { options in
+    options.pollingMode = PollingModes.autoPoll(autoPollIntervalInSeconds: 15)
+}
 
 class Features: ObservableObject {
    @Published var canShowUpvote = false
