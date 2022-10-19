@@ -25,9 +25,6 @@ Using this IOS app, I’ve demonstrated how to use feature flags with Swift. In 
 
 ## Learn more
 
-Useful links to technical resources.
-
-Example:
 - [Swift Documentation](https://developer.apple.com/swift/) - learn about Swift.
 
 [**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/).
