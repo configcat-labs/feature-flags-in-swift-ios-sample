@@ -1,19 +1,19 @@
-# Feature Flags in Swift IOS Sample
+# Feature Flags in Swift iOS Sample
 
 [Read the blog post here](https://configcat.com/blog/)
 
-Using this IOS app, I’ve demonstrated how to use feature flags with Swift. In the screenshot below, I have added an Upvote button as a new feature to be deployed. In the article, I examined how it can be linked to a feature. By doing so, I can toggle it on or off remotely without editing or redeploying the code.
+Using this iOS app, I’ve demonstrated how to use feature flags with Swift. In the screenshot below, I have added an Upvote button as a new feature to be deployed. In the article, I examined how it can be linked to a feature. By doing so, I can toggle it on or off remotely without editing or redeploying the code.
 
 ### Screenshot
 
-![Screenshot of sample app](https://user-images.githubusercontent.com/74829200/196141356-57f2a905-fece-4c38-832e-8878ee54fb3e.png)
+![Sample app](https://user-images.githubusercontent.com/74829200/196141356-57f2a905-fece-4c38-832e-8878ee54fb3e.png)
 
 ## Build & Run
 
 ### Prerequisites
 
 - A Mac computer
-- The latest version of XCode
+- [The latest version of Xcode](https://developer.apple.com/xcode/)
 
 ### How to run the app
 
